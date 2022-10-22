@@ -1,0 +1,11 @@
+requests==2.27.1
+
+exrex
+requests
+PySimpleGUI
+faker
+selenium
+chromedriver-py
+apt-get install chromium-driver
+
+!!pour l'installer il faut faire : pip install -r requirements.txt!! 

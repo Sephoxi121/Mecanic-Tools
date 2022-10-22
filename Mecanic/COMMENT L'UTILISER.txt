@@ -1,0 +1,22 @@
+Ce programme est très simple à utiliser il vous suffit de taper les chiffres qui correspondent à votre demande.
+
+Mais avant tous veuillez installer les requirement.txt qui sont dans le fichier DATA.
+
+(Mecanic>DATA>requirement>requirement.txt) 
+
+CREDIT;
+
+Merci a l'équipe de Ace Tools qui ma inspirée et m'a conduit a créer mon tout premier programmes
+
+-------------------------------------------------------------------------------------------------------------------
+
+LICENCE;
+
+Usage commercial de ce tools est absolument interdit il est aussi interdit de prendre le code source de le changer en mettant juste
+votre nom et ensuite le vendre comme votre tools.
+Vous pouvez neanmoins créer cotre tools en utilisant quelque site de Mecanic en revanche il est interdit d'utiliser les logiciels
+comme les gen ou les checkers 
+
+--------------------------------------------------------------------------------------------------------------------
+
+Merci pour votre temps bonne utilisation.
